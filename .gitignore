@@ -1,0 +1,15 @@
+ignorar archivos compilados de python
+__pycache__/
+*.pyc   
+# Ignorar archivos de configuración de entorno virtual
+venv/
+# Ignorar archivos de configuración de IDE
+.idea/
+# Ignorar archivos de configuración de sistema operativo
+.DS_Store
+# Ignorar archivos de configuración de editor
+.vscode/
+# Ignorar archivos de configuración de pytest   
+.pytest_cache/
+# Ignorar archivos de configuración de cobertura de código  
+.coverage
